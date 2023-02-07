@@ -19,3 +19,21 @@ insert into vols(numvol, heure, depart, arrivee) values (1005, '09:15:00', 'MRS'
 insert into vols(numvol, heure, depart, arrivee) values (1008, '08:00:00', 'ORY', 'NCE');
 insert into vols(numvol, heure, depart, arrivee) values (1006, '16:45:00', 'ORY', 'TLS');
 insert into vols(numvol, heure, depart, arrivee) values (1009, '18:00:00', 'CDG', 'LUX');
+
+--Données Pilote--
+insert into pilote(matricule, nom, age, anciennete) values (2, 'Peter', 40, 10);
+insert into pilote(matricule, nom, age, anciennete) values (3, 'Scott', 32, 5);
+insert into pilote(matricule, nom, age, anciennete) values (4, 'John', 46, 12);
+insert into pilote(matricule, nom, age, anciennete) values (5, 'Bill', 42, 13);
+insert into pilote(matricule, nom, age, anciennete) values (6, 'Steve', 55, 20);
+insert into pilote(matricule, nom, age, anciennete) values (7, 'Adam', 30, 2);
+insert into pilote(matricule, nom, age, anciennete) values (8, 'Tom', 37, 8);
+insert into pilote(matricule, nom, age, anciennete) values (9, 'Philip', 60, 23);
+
+--Données Planning--
+insert into planning(numvol, datevol, matricule, numserie) values (1002, '2023-11-24', 2, 108);
+insert into planning(numvol, datevol, matricule, numserie) values (1003, '2023-11-03', 3, 104);
+insert into planning(numvol, datevol, matricule, numserie) values (1006, '2023-11-01', 4, 104);
+insert into planning(numvol, datevol, matricule, numserie) values (1005, '2023-11-16', 9, 106);
+insert into planning(numvol, datevol, matricule, numserie) values (1003, '2023-11-02', 8, 107);
+insert into planning(numvol, datevol, matricule, numserie) values (1007, '2023-11-10', 7, 101);
