@@ -37,3 +37,21 @@ insert into planning(numvol, datevol, matricule, numserie) values (1006, '2023-1
 insert into planning(numvol, datevol, matricule, numserie) values (1005, '2023-11-16', 9, 106);
 insert into planning(numvol, datevol, matricule, numserie) values (1003, '2023-11-02', 8, 107);
 insert into planning(numvol, datevol, matricule, numserie) values (1007, '2023-11-10', 7, 101);
+insert into planning(numvol, datevol, matricule, numserie) values (1007, '2023-11-24', 5, 103);
+insert into planning(numvol, datevol, matricule, numserie) values (1008, '2023-11-10', 5, 107);
+insert into planning(numvol, datevol, matricule, numserie) values (1002, '2023-11-30', 5, 108);
+insert into planning(numvol, datevol, matricule, numserie) values (1006, '2023-11-05', 4, 104);
+insert into planning(numvol, datevol, matricule, numserie) values (1008, '2023-11-02', 2, 105);
+insert into planning(numvol, datevol, matricule, numserie) values (1005, '2023-11-02', 3, 106);
+insert into planning(numvol, datevol, matricule, numserie) values (1002, '2023-11-15', 5, 101);
+insert into planning(numvol, datevol, matricule, numserie) values (1005, '2023-11-03', 9, 106);
+insert into planning(numvol, datevol, matricule, numserie) values (1003, '2023-11-05', 4, 104);
+insert into planning(numvol, datevol, matricule, numserie) values (1009, '2023-11-24', 7, 101);
+
+
+
+
+
+
+
+
